@@ -20,7 +20,7 @@ const Orders = ({ orders }: any) => {
   console.log(orders);
 
   return (
-    <div className="bg-gradient-to-tr from-white to-gray-500 h-screen">
+    <div className="bg-gradient-to-tr from-red-100 to-yellow-100 h-screen">
       <Header />
       <main className="max-w-screen-lg mx-auto p-10 bg-white mt-5 rounded-md">
         <h1 className="text-xl border-b mb-2 pb-1 border-[#ffc100]">

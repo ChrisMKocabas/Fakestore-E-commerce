@@ -40,7 +40,7 @@ const Header = () => {
 
   return (
     <header className="shadow-lg relative select-none">
-      <div className="bg-[#ffc100] flex items-center p-1 flex-grow">
+      <div className="bg-gradient-to-tr from-[#ffc100] to-[#ffffe0] flex items-center p-1 flex-grow">
         {/* Logo Side */}
         <div className="mt-2 flex items-center flex-grow sm:flex-grow-0 mb-1 pr-3 text-black font-extrabold font-sans tracking-wide">
           <Image

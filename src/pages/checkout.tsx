@@ -33,7 +33,7 @@ const Checkout = () => {
   };
 
   return (
-    <div className="bg-gradient-to-tr from-white to-gray-500 h-screen">
+    <div className="bg-gradient-to-tr from-red-100 to-yellow-100 h-screen">
       <Header />
       <main className="lg:flex max-w-screen-2xl mx-auto">
         <div className="flex-grow m-5 shadow-md items-center bg-[#ffC000] rounded-md">
