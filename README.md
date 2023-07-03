@@ -1,6 +1,7 @@
 # Fake Store
 
-<img width="1502" alt="Screenshot 2023-07-03 at 3 04 25 AM" src="https://github.com/ChrisMKocabas/Fakestore-E-commerce/assets/75855099/4df02b73-abcb-4616-aca9-700859105ee5">
+<img width="1527" alt="Screenshot 2023-07-03 at 1 06 45 PM" src="https://github.com/ChrisMKocabas/Fakestore-E-commerce/assets/75855099/f2f9d786-713b-416f-a428-e0bac67b4eb9">
+
 
 Test here: https://fake-store-mu2y.onrender.com/
 
